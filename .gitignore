@@ -1,0 +1,7 @@
+/.vs/WPFCodeEditor/*
+/.vs/*
+/WpfCodeEditor/.vs/*
+/WpfCodeEditor/bin/*
+/WpfCodeEditor/obj/*
+/WpfMonacoEditor/bin/*
+/WpfMonacoEditor/obj/*
